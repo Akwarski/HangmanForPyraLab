@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="check_word">check_word</string>
+    <string name="letter_hint">letter_hint</string>
+    <string name="check_letter">check_letter</string>
+</resources>
